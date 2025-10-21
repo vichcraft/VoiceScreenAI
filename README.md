@@ -1,4 +1,4 @@
-# VoiceScreen AI - Blue-Collar Job Screening Platform
+# VoiceScreen AI - Frontline Job Screening Platform
 
 ![VoiceScreen AI](https://img.shields.io/badge/VoiceScreen-AI-blue?style=for-the-badge) ![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat&logo=next.js) ![Convex](https://img.shields.io/badge/Convex-Backend-orange?style=flat) ![VAPI.ai](https://img.shields.io/badge/VAPI.ai-Voice-green?style=flat)
 
